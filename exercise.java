@@ -96,12 +96,12 @@ public class exercise{
         System.out.println(count14);
 
 
-        //1  C
+        //1  C //// correct answer: B
         //2  C
-        //3  B
+        //3  B //// correct answer: A
         //4  E
-        //5  A
-        //6  C
+        //5  A //// correct answer: D
+        //6  C //// correct answer: A
         //7  D
     }
 }
